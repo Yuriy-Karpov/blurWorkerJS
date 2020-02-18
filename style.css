@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    flex: 1;
+    background: #333;
+}
+.container {
+    flex: 1;
+    flex-direction: row;
+}
+.wrap-control {
+    margin: 10px;
+}
+.wrap-canvas {
+    /* flex: 1; */
+}
